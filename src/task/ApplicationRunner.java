@@ -1,9 +1,6 @@
 package task;
 
 public class ApplicationRunner {
-    public static void main(String[] args) {
-
-    }
 
 // TODO: Требования:
 //        1. Создание класса User с полями для хранения информации о пользователе ( id, имя, возраст, email ,adress).
